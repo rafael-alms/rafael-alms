@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Rafael de Almeida 👋
 
-<!--
-**rafael-alms/rafael-alms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current Stack
+- ⚡ Main Language: `Javascript`
+- 📡 Backend: `Node.js`
+- 🎉 Frontend: `React.js`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦 Version code control: `Git`, `Github`
+- 🔨 Tools: `VS Code`, `Markdown`
+- 🌎 I'm mostly active within the `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- 📫 Email: rafaelde-almeida@hotmail.com
+- 👤 Linkedin: www.linkedin.com/in/rafael-de-almeida-96492073/
